@@ -3,7 +3,11 @@
 <span><img src="https://img.shields.io/badge/AI%20Powered-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Powered - Google Gemini"/></span>
 <span><img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend - FastAPI"/></span>
 <span><img src="https://img.shields.io/badge/Frontend-Vite%20%2B%20Vanilla%20JS-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Frontend - Vite + Vanilla JS"/></span>
+<span><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+"/></span>
+<span><img src="https://img.shields.io/badge/Model-Gemini%201.5%20Flash-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 1.5 Flash"/></span>
+<span><img src="https://img.shields.io/badge/Streaming-SSE-purple?style=for-the-badge" alt="Streaming SSE"/></span>
 <span><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status - Active"/></span>
+
 
 # 🛡️ SOCIAL SHIELD AI
 
