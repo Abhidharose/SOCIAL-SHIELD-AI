@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Powered-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-Vite%20%2B%20Vanilla%20JS-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+<span><img src="https://img.shields.io/badge/AI%20Powered-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Powered - Google Gemini"/></span>
+<span><img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend - FastAPI"/></span>
+<span><img src="https://img.shields.io/badge/Frontend-Vite%20%2B%20Vanilla%20JS-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Frontend - Vite + Vanilla JS"/></span>
+<span><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status - Active"/></span>
 
 # 🛡️ SOCIAL SHIELD AI
 
@@ -388,12 +387,6 @@ Contributions are welcome! If you have ideas for new agents, improved prompts, o
 3. Commit your changes: `git commit -m "Add new agent"`
 4. Push to the branch: `git push origin feature/new-agent`
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
